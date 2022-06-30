@@ -7,4 +7,4 @@
 - 📫 How to reach me ... javascriptstack0011@gmail.com, a84842791@gmail.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jsstackdevelopers&&show_icons=true&title_color=ffffff&icon_color=fafafa&text_color=fafafa&bg_color=000">
+<img src="https://github-readme-stats.vercel.app/api?username=jsstackdevelopers&&show_icons=true&title_color=00ff99&icon_color=fafafa&text_color=fafafa&bg_color=000">
