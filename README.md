@@ -1,8 +1,8 @@
-# Smart Contracts Developer
+# React(Next).js Developer (Smart Contracts)
 - 🔴🔴 Hi, Viewver
 - 👋 This is MUHAMMAD AHMED @jsstackdevelopers
-- 👀 I'm Full Stack Developer - Blockchain
-- 🌱 I’m currently learning ... BS Software Engineering (Specialization in 🔴Smarts Contracts Development)
+- 👨‍💻 I'm Full Stack Developer
+- 🌱 I’m Software Engineering (Specialization doing in 🔴Smarts Contracts Development)
 - 💞️ I’m looking to collaborate: 🚀🚀🚀🚀🚀🚀🚀🚀
 - 📫 How to reach me ... javascriptstack0011@gmail.com, a84842791@gmail.com
 
